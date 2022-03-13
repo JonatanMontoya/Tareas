@@ -1,2 +1,3 @@
 # Tareas
-En este repositorio se encuentra un archivo colab por cada parcial con las tareas asignadas por el profesor
+En este repositorio se encuentran las tareas asignadas por el profesor correspondiente a cada parcial
+
